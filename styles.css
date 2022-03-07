@@ -1,0 +1,22 @@
+body {
+  background-color: #FFA1C9;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none none;
+  height: 0px;
+  width: 5%;
+}
+img{
+  width: 150px;
+  height: 150px;
+}
+h1{
+  color: #9C0F48;
+  font-family: calibri;
+}
+h3{
+  color: #FF6464;
+}
